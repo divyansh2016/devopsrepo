@@ -1,1 +1,1 @@
-class test{}
+class test{public stattisc void main(){}}
